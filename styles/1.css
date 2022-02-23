@@ -1,0 +1,20 @@
+ul {
+	display:block;
+	float:left;
+	width:300px;
+	margin:0 20px;
+}
+
+.countries {
+	list-style-type: none;
+}
+
+.cities {
+	list-style-type: square;
+}
+
+.days {
+	list-style-type: none;
+}
+
+.
